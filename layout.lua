@@ -139,7 +139,7 @@ else
 end
 
 -- Check Party Visibility Helper function and event handlers
-local function CheckPartyVisibility() 
+local function CheckPartyVisibility(self) 
 	if(InCombatLockdown()) then
 		self:RegisterEvent('PLAYER_REGEN_ENABLED') -- defer this until OOC
 	else
