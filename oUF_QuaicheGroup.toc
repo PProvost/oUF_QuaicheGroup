@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: oUF_Quaiche
+## Title: oUF_Quaiche (Group)
 ## Author: Quaiche
 ## Version: $project-version$
 ## Notes: Group and raid frames for my personal oUF layout
